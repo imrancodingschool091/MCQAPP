@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f4f4f9;
+}
+
+.App {
+  text-align: center;
+}
+
+h1.app-title {
+  margin-top: 20px;
+  color: #333;
+}
